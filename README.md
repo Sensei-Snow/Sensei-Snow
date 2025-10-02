@@ -8,10 +8,16 @@
 ## 🚀 About Me 
 
 <p align="center">
-  <img src="cmd_big.png" alt="Ma présentation sous forme de terminal" width="1000"/>
+  <img src="cmd.png" alt="Ma présentation sous forme de terminal" width="1000"/>
 </p>
 
 ---
+
+## 🛠️ Stack & Tools
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sensei-Snow&show_icons=true&theme=onedark" height="175"/>
@@ -19,3 +25,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-Snow&layout=compact&theme=onedark" height="175"/>
 </p>
+
+---
