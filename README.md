@@ -15,6 +15,12 @@
 
 ## 🛠️ Stack & Tools
 
+<p>
+  <img src="https://img.shields.io/badge/First-Linux-%2315E0ED?logo=parrotsecurity" width="120">
+  <img src="https://img.shields.io/badge/Second-Linux-%23A81D33?logo=debian" width="120">
+  <img src="https://img.shields.io/badge/Third-Linux-%2356347C?logo=tails" width="120">
+</p>
+
 ---
 
 ## 📊 GitHub Stats
