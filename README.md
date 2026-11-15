@@ -13,7 +13,7 @@
 As a young 19 years old French student at ESEO, I am currently exploring all the different facets of computer science. To better understand them, I am working on educational projects that you can find in my various repositories. However, my current projects are not public.
 
 ⚡ &nbsp;Fun fact: **It all started with a CTRL+U in my browser...**  
-🔭 &nbsp;I'm currently working on **a small operating system in C for my RaspberryPi Pico.**  
+🔭 &nbsp;I'm currently working on **a logical analyzer in C with a STM32G431.**  
 🌱 &nbsp;I'm currently learning **C for robotics.**
 
 ### 🛠️ Tech Stack
